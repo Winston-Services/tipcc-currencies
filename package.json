@@ -15,6 +15,7 @@
   "author": "M.A.D. Computer Consulting LLC",
   "license": "MIT",
   "dependencies": {
+    "csvtojson": "^2.0.10",
     "discord.js": "^14.7.1",
     "dotenv": "^16.0.3"
   }

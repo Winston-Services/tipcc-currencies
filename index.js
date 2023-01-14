@@ -346,7 +346,7 @@ class GenericDiscordBod {
 async function main() {
   const GenericBot = new GenericDiscordBod();
   await GenericBot.login();
-  GenericBot.setUsername("! GenericBot");
+  GenericBot.setUsername("!TipccCurrencies");
 
   console.log(
     "Invite Your Bot :: ",
