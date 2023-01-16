@@ -1,0 +1,3915 @@
+[
+    {
+        "symbol": "ADA",
+        "currencyName": "Cardano",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/924470623542059058.png?size=128&quality=lossless",
+        "decimals": 6,
+        "coingeckoId": "cardano"
+    },
+    {
+        "symbol": "ALIAS",
+        "currencyName": "Alias",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/903867168465231903.gif?size=128&quality=lossless",
+        "decimals": 8,
+        "coingeckoId": "spectrecoin"
+    },
+    {
+        "symbol": "AVAX",
+        "currencyName": "Avalanche",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/903867168997900308.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "avalanche"
+    },
+    {
+        "symbol": "BAN",
+        "currencyName": "Banano",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/903867169136340992.gif?size=128&quality=lossless",
+        "decimals": 29,
+        "coingeckoId": "banano"
+    },
+    {
+        "symbol": "BCH",
+        "currencyName": "Bitcoin Cash",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/903867169136328734.png?size=128&quality=lossless",
+        "decimals": 8,
+        "coingeckoId": "bitcoin-cash"
+    },
+    {
+        "symbol": "BID",
+        "currencyName": "Blockidcoin",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/905205926699614338.gif?size=128&quality=lossless",
+        "decimals": 8,
+        "coingeckoId": "topbidder"
+    },
+    {
+        "symbol": "BLK",
+        "currencyName": "BlackCoin",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/968123143669571606.png?size=128&quality=lossless",
+        "decimals": 8,
+        "coingeckoId": "black-whale"
+    },
+    {
+        "symbol": "BLURT",
+        "currencyName": "Blurt",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/903867169140527135.gif?size=128&quality=lossless",
+        "decimals": 3,
+        "coingeckoId": "blurt"
+    },
+    {
+        "symbol": "BNB",
+        "currencyName": "BNB",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/944282350441877535.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "heco-peg-bnb"
+    },
+    {
+        "symbol": "BNJ",
+        "currencyName": "Binjit Coin",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/903867169086005292.gif?size=128&quality=lossless",
+        "decimals": 8,
+        "coingeckoId": "binjit-coin"
+    },
+    {
+        "symbol": "BSV",
+        "currencyName": "Bitcoin SV",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/905205426646306837.png?size=128&quality=lossless",
+        "decimals": 8,
+        "coingeckoId": "bitcoin-cash-sv"
+    },
+    {
+        "symbol": "BTC",
+        "currencyName": "Bitcoin",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/903867169568325642.png?size=128&quality=lossless",
+        "decimals": 8,
+        "coingeckoId": "bitcoin"
+    },
+    {
+        "symbol": "BTCZ",
+        "currencyName": "BitcoinZ",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/1009890774856503417.png?size=128&quality=lossless",
+        "decimals": 8,
+        "coingeckoId": "bitcoinz"
+    },
+    {
+        "symbol": "BTG",
+        "currencyName": "Bitcoin Gold",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/905205926724780113.gif?size=128&quality=lossless",
+        "decimals": 8,
+        "coingeckoId": "bitcoin-gold"
+    },
+    {
+        "symbol": "BTLLR",
+        "currencyName": "Betller Coin",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/903867169719341057.gif?size=128&quality=lossless",
+        "decimals": 8,
+        "coingeckoId": "betller-coin"
+    },
+    {
+        "symbol": "BYND",
+        "currencyName": "Beyondcoin",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904068982145961994.gif?size=128&quality=lossless",
+        "decimals": 8,
+        "coingeckoId": "beyondcoin"
+    },
+    {
+        "symbol": "DASH",
+        "currencyName": "Dash",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904068982548611164.png?size=128&quality=lossless",
+        "decimals": 8,
+        "coingeckoId": "dash"
+    },
+    {
+        "symbol": "DGB",
+        "currencyName": "DigiByte",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904069441531314248.gif?size=128&quality=lossless",
+        "decimals": 8,
+        "coingeckoId": "digibyte"
+    },
+    {
+        "symbol": "DIVI",
+        "currencyName": "Divi",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904069312241877072.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "divi"
+    },
+    {
+        "symbol": "DOGE",
+        "currencyName": "Dogecoin",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904069312313163787.png?size=128&quality=lossless",
+        "decimals": 8,
+        "coingeckoId": "dogecoin"
+    },
+    {
+        "symbol": "DVT",
+        "currencyName": "DeVault",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904069317363118090.png?size=128&quality=lossless",
+        "decimals": 3,
+        "coingeckoId": "devault"
+    },
+    {
+        "symbol": "EGG",
+        "currencyName": "NestEgg Coin",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/931168762453954560.png?size=128&quality=lossless",
+        "decimals": 8,
+        "coingeckoId": "waves-ducks"
+    },
+    {
+        "symbol": "EOS",
+        "currencyName": "EOS",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904069312300585050.png?size=128&quality=lossless",
+        "decimals": 4,
+        "coingeckoId": "eos"
+    },
+    {
+        "symbol": "ETC",
+        "currencyName": "Ethereum Classic",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904069442097524737.gif?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "ethereum-classic"
+    },
+    {
+        "symbol": "ETH-OP",
+        "currencyName": "Optimistic Ethereum",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/942938213515948033.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "ethereum"
+    },
+    {
+        "symbol": "ETH",
+        "currencyName": "Ethereum",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904069312459972628.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "ethereum-wormhole"
+    },
+    {
+        "symbol": "ETN",
+        "currencyName": "Electroneum",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904069441925546066.gif?size=128&quality=lossless",
+        "decimals": 3,
+        "coingeckoId": "electroneum"
+    },
+    {
+        "symbol": "FLR",
+        "currencyName": "Spark",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904069441984266291.gif?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "FLUX",
+        "currencyName": "Flux",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904069442131095612.gif?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "zelcash"
+    },
+    {
+        "symbol": "GBYTE",
+        "currencyName": "Obyte",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904069442223357962.gif?size=128&quality=lossless",
+        "decimals": 9,
+        "coingeckoId": "byteball"
+    },
+    {
+        "symbol": "GIN",
+        "currencyName": "GINcoin",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904069442353373245.gif?size=128&quality=lossless",
+        "decimals": 8,
+        "coingeckoId": "gin-token"
+    },
+    {
+        "symbol": "HIVE",
+        "currencyName": "Hive",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904070060765757480.gif?size=128&quality=lossless",
+        "decimals": 3,
+        "coingeckoId": "hive"
+    },
+    {
+        "symbol": "HUSH",
+        "currencyName": "Hush",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904070060618956870.gif?size=128&quality=lossless",
+        "decimals": 4,
+        "coingeckoId": "hush"
+    },
+    {
+        "symbol": "KMD",
+        "currencyName": "Komodo",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904070060908376074.gif?size=128&quality=lossless",
+        "decimals": 8,
+        "coingeckoId": "komodo"
+    },
+    {
+        "symbol": "LBC",
+        "currencyName": "LBRY Credits",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904070060778332241.gif?size=128&quality=lossless",
+        "decimals": 6,
+        "coingeckoId": "lbry-credits"
+    },
+    {
+        "symbol": "LTC",
+        "currencyName": "Litecoin",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904095822604550144.png?size=128&quality=lossless",
+        "decimals": 8,
+        "coingeckoId": "litecoin"
+    },
+    {
+        "symbol": "LUNC",
+        "currencyName": "Terra Luna Classic",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/983343471312117820.png?size=128&quality=lossless",
+        "decimals": 6,
+        "coingeckoId": "wrapped-terra"
+    },
+    {
+        "symbol": "MARTK",
+        "currencyName": "Martkist",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904070061550100490.gif?size=128&quality=lossless",
+        "decimals": 6,
+        "coingeckoId": "martkist"
+    },
+    {
+        "symbol": "MATIC",
+        "currencyName": "Polygon",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904095822617137223.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "matic-network"
+    },
+    {
+        "symbol": "XNO",
+        "currencyName": "Nano",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/912438159479017472.png?size=128&quality=lossless",
+        "decimals": 30,
+        "coingeckoId": "nano"
+    },
+    {
+        "symbol": "NIM",
+        "currencyName": "Nimiq",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904070061168422942.gif?size=128&quality=lossless",
+        "decimals": 5,
+        "coingeckoId": "nimiq-2"
+    },
+    {
+        "symbol": "PAWS",
+        "currencyName": "Paws Funds",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904070061122277426.gif?size=128&quality=lossless",
+        "decimals": 8,
+        "coingeckoId": "solana-paws"
+    },
+    {
+        "symbol": "PIVX",
+        "currencyName": "PIVX",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904070237748596776.gif?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "pivx"
+    },
+    {
+        "symbol": "PPC",
+        "currencyName": "Peercoin",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904070237786374234.gif?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "philips-pay-coin"
+    },
+    {
+        "symbol": "RDD",
+        "currencyName": "Reddcoin",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904070238042198026.gif?size=128&quality=lossless",
+        "decimals": 4,
+        "coingeckoId": "reddcoin"
+    },
+    {
+        "symbol": "RIC",
+        "currencyName": "Riecoin",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904070238545526856.gif?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "riecoin"
+    },
+    {
+        "symbol": "RVN",
+        "currencyName": "Ravencoin",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904070237928980481.gif?size=128&quality=lossless",
+        "decimals": 8,
+        "coingeckoId": "ravencoin"
+    },
+    {
+        "symbol": "RYO",
+        "currencyName": "Ryo Currency",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904070237887017010.gif?size=128&quality=lossless",
+        "decimals": 8,
+        "coingeckoId": "ryo"
+    },
+    {
+        "symbol": "SAFE",
+        "currencyName": "AllSafe",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904070237434032149.gif?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "spacexlife"
+    },
+    {
+        "symbol": "SIN",
+        "currencyName": "SINOVATE",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904070237769592862.gif?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "suqa"
+    },
+    {
+        "symbol": "SOL",
+        "currencyName": "Solana",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/924397206453256235.png?size=128&quality=lossless",
+        "decimals": 4,
+        "coingeckoId": "wrapped-solana"
+    },
+    {
+        "symbol": "STEEM",
+        "currencyName": "Steem",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904070238008655953.gif?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "steem"
+    },
+    {
+        "symbol": "TKL",
+        "currencyName": "Tokel",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/964519824065695834.png?size=128&quality=lossless",
+        "decimals": 8,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "TLOS",
+        "currencyName": "Telos",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904070238243545098.gif?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "telos"
+    },
+    {
+        "symbol": "TRX",
+        "currencyName": "TRON",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904070238486790154.gif?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "tron"
+    },
+    {
+        "symbol": "TT",
+        "currencyName": "ThunderCore",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904070421358460988.gif?size=128&quality=lossless",
+        "decimals": 8,
+        "coingeckoId": "trillium"
+    },
+    {
+        "symbol": "VAL",
+        "currencyName": "Validity",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/953291987795189881.png?size=128&quality=lossless",
+        "decimals": 8,
+        "coingeckoId": "valhalla-protocol"
+    },
+    {
+        "symbol": "VAULT",
+        "currencyName": "VAULT",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904095927898357760.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "vault"
+    },
+    {
+        "symbol": "VGC",
+        "currencyName": "5G-CASH",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/1010099604387266581.png?size=128&quality=lossless",
+        "decimals": 8,
+        "coingeckoId": "5g-cash"
+    },
+    {
+        "symbol": "VRSC",
+        "currencyName": "Verus Coin",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904095928024174723.png?size=128&quality=lossless",
+        "decimals": 9,
+        "coingeckoId": "verus-coin"
+    },
+    {
+        "symbol": "VTC",
+        "currencyName": "Vertcoin",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904070421194887299.gif?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "vertcoin"
+    },
+    {
+        "symbol": "WAXP",
+        "currencyName": "WAX",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904095927474720879.png?size=128&quality=lossless",
+        "decimals": 8,
+        "coingeckoId": "wax"
+    },
+    {
+        "symbol": "WOW",
+        "currencyName": "Wownero",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904070421194891276.gif?size=128&quality=lossless",
+        "decimals": 6,
+        "coingeckoId": "wow-token"
+    },
+    {
+        "symbol": "XLA",
+        "currencyName": "Scala",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/964494737509855312.png?size=128&quality=lossless",
+        "decimals": 2,
+        "coingeckoId": "stellite"
+    },
+    {
+        "symbol": "XLM",
+        "currencyName": "Stellar",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904095927906742293.png?size=128&quality=lossless",
+        "decimals": 9,
+        "coingeckoId": "stellar"
+    },
+    {
+        "symbol": "XMR",
+        "currencyName": "Monero",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904095928070336542.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "monero"
+    },
+    {
+        "symbol": "XPR",
+        "currencyName": "Proton",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904095927738986619.png?size=128&quality=lossless",
+        "decimals": 4,
+        "coingeckoId": "proton"
+    },
+    {
+        "symbol": "XRP",
+        "currencyName": "XRP",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904070421471698955.gif?size=128&quality=lossless",
+        "decimals": 6,
+        "coingeckoId": "ripple"
+    },
+    {
+        "symbol": "XTZ",
+        "currencyName": "Tezos",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904070421664657438.gif?size=128&quality=lossless",
+        "decimals": 6,
+        "coingeckoId": "tezos"
+    },
+    {
+        "symbol": "XVG",
+        "currencyName": "Verge",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904070421643681832.gif?size=128&quality=lossless",
+        "decimals": 4,
+        "coingeckoId": "verge"
+    },
+    {
+        "symbol": "ZEC",
+        "currencyName": "Zcash",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904070422486724619.gif?size=128&quality=lossless",
+        "decimals": 4,
+        "coingeckoId": "zcash"
+    },
+    {
+        "symbol": "ZEN",
+        "currencyName": "Horizen",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904070421589151794.gif?size=128&quality=lossless",
+        "decimals": 4,
+        "coingeckoId": "zencash"
+    },
+    {
+        "symbol": "ZER",
+        "currencyName": "Zero",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904070421731770368.gif?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "zero"
+    },
+    {
+        "symbol": "BSGG",
+        "currencyName": "Betswap.gg",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/972188764908707841.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "betswap-gg"
+    },
+    {
+        "symbol": "CCC",
+        "currencyName": "Cross Chain Capital",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/948190666331144292.png?size=128&quality=lossless",
+        "decimals": 9,
+        "coingeckoId": "cross-chain-capital"
+    },
+    {
+        "symbol": "EVRT",
+        "currencyName": "Everest Token",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904069312346746940.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "JOE",
+        "currencyName": "JOE",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904069312610983996.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "joe"
+    },
+    {
+        "symbol": "MEAD",
+        "currencyName": "Thors Mead v1",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/937042514400116886.gif?size=128&quality=lossless",
+        "decimals": 8,
+        "coingeckoId": "thors-mead"
+    },
+    {
+        "symbol": "PEVRT",
+        "currencyName": "Charged EVRT",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904095822969450587.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "PNG",
+        "currencyName": "Pangolin",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904095823015600159.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "pangolin"
+    },
+    {
+        "symbol": "SHERPA",
+        "currencyName": "Sherpa",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904095823653109851.png?size=128&quality=lossless",
+        "decimals": 9,
+        "coingeckoId": "sherpa"
+    },
+    {
+        "symbol": "SNOB",
+        "currencyName": "Snowball",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904095823787339826.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "snowball-token"
+    },
+    {
+        "symbol": "TIC",
+        "currencyName": "ElasticSwap",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/960879968378839091.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "toursim-coin"
+    },
+    {
+        "symbol": "aCDS",
+        "currencyName": "Crypto Development Services (Avalanche)",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/939313358908313651.png?size=128&quality=lossless",
+        "decimals": 8,
+        "coingeckoId": "crypto-development-services"
+    },
+    {
+        "symbol": "2022M",
+        "currencyName": "2022MOON",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/950172297845678160.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "2022moon"
+    },
+    {
+        "symbol": "4BIDN",
+        "currencyName": "4BiddenCoin",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/949353883212328960.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "AFT",
+        "currencyName": "Ape Fun Token",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/935682864417218690.png?size=128&quality=lossless",
+        "decimals": 8,
+        "coingeckoId": "ape-fun-token"
+    },
+    {
+        "symbol": "ARTONLINE",
+        "currencyName": "ARTonline",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/903867169002111018.gif?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "artonline"
+    },
+    {
+        "symbol": "ASX",
+        "currencyName": "Ads Social",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/905205427065716796.png?size=128&quality=lossless",
+        "decimals": 8,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "BELUGA",
+        "currencyName": "Beluga.fi",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/903867169111179264.gif?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "beluga-fi"
+    },
+    {
+        "symbol": "BFG",
+        "currencyName": "BFG Token",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/911667622167339008.png?size=128&quality=lossless",
+        "decimals": 4,
+        "coingeckoId": "bfg-token"
+    },
+    {
+        "symbol": "BFJB",
+        "currencyName": "Baby FJB",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/923934973390643251.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "BIFI",
+        "currencyName": "Beefy.Finance",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/905206552523325500.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "bifi"
+    },
+    {
+        "symbol": "BIRB",
+        "currencyName": "Birb",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/1010589605554299011.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "birb-2"
+    },
+    {
+        "symbol": "BMON",
+        "currencyName": "Binamon",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/903867168968568923.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "binamon"
+    },
+    {
+        "symbol": "BOOMC",
+        "currencyName": "BoomCoin",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/905205427153797140.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "BSCBACON",
+        "currencyName": "BaconDAO (BSC)",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/905205926695428107.gif?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "bacondao"
+    },
+    {
+        "symbol": "CAKE",
+        "currencyName": "PancakeSwap",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904068981583937547.gif?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "pancakeswap-token"
+    },
+    {
+        "symbol": "CAPT",
+        "currencyName": "Captain Token",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904068982695411712.png?size=128&quality=lossless",
+        "decimals": 9,
+        "coingeckoId": "captain"
+    },
+    {
+        "symbol": "CDS",
+        "currencyName": "Crypto Development Services",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904068982636675162.png?size=128&quality=lossless",
+        "decimals": 8,
+        "coingeckoId": "crypto-development-services"
+    },
+    {
+        "symbol": "COCKTAIL",
+        "currencyName": "Cocktail",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904068982791876669.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "COMFY",
+        "currencyName": "Comfy Token",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904069441703247974.gif?size=128&quality=lossless",
+        "decimals": 8,
+        "coingeckoId": "comfytoken"
+    },
+    {
+        "symbol": "COTK",
+        "currencyName": "Colligo Token",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/938530995928432651.png?size=128&quality=lossless",
+        "decimals": 9,
+        "coingeckoId": "colligo"
+    },
+    {
+        "symbol": "CUMMIES",
+        "currencyName": "CumRocket",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904069441816506400.gif?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "cumrocket"
+    },
+    {
+        "symbol": "DARA",
+        "currencyName": "Immutable",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904068982645092442.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "immutable"
+    },
+    {
+        "symbol": "DEEZNUTS",
+        "currencyName": "Deez Nuts",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904069312132821052.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "deez-nuts"
+    },
+    {
+        "symbol": "DIAH",
+        "currencyName": "DiarrheaCoin",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/912342687070425098.png?size=128&quality=lossless",
+        "decimals": 8,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "DIAHv1",
+        "currencyName": "DiarrheaCoin (v1)",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904069312292192336.png?size=128&quality=lossless",
+        "decimals": 8,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "DVASH",
+        "currencyName": "Digiverse Ash",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904069312606781450.png?size=128&quality=lossless",
+        "decimals": 4,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "EHB",
+        "currencyName": "EarnHub",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/928343638033989632.png?size=128&quality=lossless",
+        "decimals": 8,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "ENH",
+        "currencyName": "Enhance V3",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/935651456248320000.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "enhance-v2"
+    },
+    {
+        "symbol": "FIELD",
+        "currencyName": "Field",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904069312594190376.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "FINA",
+        "currencyName": "Defina Finance",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904069312648724570.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "defina-finance"
+    },
+    {
+        "symbol": "FJB",
+        "currencyName": "Lets Go Brandon!",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/907716627645235210.png?size=128&quality=lossless",
+        "decimals": 8,
+        "coingeckoId": "lets-go-brandon-coin"
+    },
+    {
+        "symbol": "FLVR",
+        "currencyName": "Flavors",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/905247961334820865.png?size=128&quality=lossless",
+        "decimals": 9,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "FNDZ",
+        "currencyName": "FNDZ Token",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904069312640340089.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "fndz-token"
+    },
+    {
+        "symbol": "FT",
+        "currencyName": "Crypto Family Token",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904069312413831188.png?size=128&quality=lossless",
+        "decimals": 10,
+        "coingeckoId": "fracton-protocol"
+    },
+    {
+        "symbol": "GERT",
+        "currencyName": "gertcoin",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/906205035556393000.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "GOAT",
+        "currencyName": "Goatcoin",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904069442269499412.gif?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "goat-coin"
+    },
+    {
+        "symbol": "H4G",
+        "currencyName": "Hodl4Gold",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/929326806429999145.png?size=128&quality=lossless",
+        "decimals": 8,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "HC",
+        "currencyName": "#HumbleCoin",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904069312455774208.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "savebee-farm-honeycomb"
+    },
+    {
+        "symbol": "HMMM",
+        "currencyName": "Hmmm",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/1020315518445551646.png?size=128&quality=lossless",
+        "decimals": 9,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "HPS",
+        "currencyName": "Happiness Token",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904070060233072671.gif?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "IGNT",
+        "currencyName": "Ignite Token",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/951871369791012934.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "INFO",
+        "currencyName": "Infomatix",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/932950738387214347.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "info-token"
+    },
+    {
+        "symbol": "JUP",
+        "currencyName": "Jupiter (BSC)",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/921201820712456222.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "jupiter"
+    },
+    {
+        "symbol": "KBN",
+        "currencyName": "Koban",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904095822856212581.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "kbn"
+    },
+    {
+        "symbol": "LNR",
+        "currencyName": "Lunar",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/996732921538957443.png?size=128&quality=lossless",
+        "decimals": 9,
+        "coingeckoId": "lunar-2"
+    },
+    {
+        "symbol": "MEYERS",
+        "currencyName": "Meyers Token",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904095822638092329.png?size=128&quality=lossless",
+        "decimals": 9,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "MONSTA",
+        "currencyName": "Cake Monster",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/957791070983434340.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "cake-monster"
+    },
+    {
+        "symbol": "MOONER",
+        "currencyName": "CoinMooner",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/946903070737072158.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "coinmooner"
+    },
+    {
+        "symbol": "MOONIE",
+        "currencyName": "Moonie",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904070061206175827.gif?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "MRP",
+        "currencyName": "MORPHINE",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904095822478716939.png?size=128&quality=lossless",
+        "decimals": 9,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "NFTART",
+        "currencyName": "NFT Art Finance",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/978704655494316124.png?size=128&quality=lossless",
+        "decimals": 9,
+        "coingeckoId": "nft-art-finance"
+    },
+    {
+        "symbol": "NINKY",
+        "currencyName": "Idle Ninja Online",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/940670428672827453.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "ninky"
+    },
+    {
+        "symbol": "OKLG",
+        "currencyName": "ok.lets.go.",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/947912492095508531.png?size=128&quality=lossless",
+        "decimals": 9,
+        "coingeckoId": "ok-lets-go"
+    },
+    {
+        "symbol": "PANTHER",
+        "currencyName": "PantherSwap",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904095824055775232.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "pantherswap"
+    },
+    {
+        "symbol": "PKR",
+        "currencyName": "Polker",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/953601918335320125.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "polker"
+    },
+    {
+        "symbol": "POTS",
+        "currencyName": "Moonpot",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904095823158194176.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "moonpot"
+    },
+    {
+        "symbol": "PYO",
+        "currencyName": "Pyrrho",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/948539969968930856.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "pyrrho-defi"
+    },
+    {
+        "symbol": "R0OK",
+        "currencyName": "r0ok Token",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904095823846076446.png?size=128&quality=lossless",
+        "decimals": 9,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "REFLECTO",
+        "currencyName": "Reflecto",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/912342588449751102.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "RVL",
+        "currencyName": "REVIVAL",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/905247959816491039.png?size=128&quality=lossless",
+        "decimals": 8,
+        "coingeckoId": "revolotto"
+    },
+    {
+        "symbol": "RVLX",
+        "currencyName": "REVIVALX",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/1011996962809188392.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "revivalx"
+    },
+    {
+        "symbol": "SACT",
+        "currencyName": "srnArtGallery",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904095823367913473.png?size=128&quality=lossless",
+        "decimals": 8,
+        "coingeckoId": "srnartgallery"
+    },
+    {
+        "symbol": "SCCN",
+        "currencyName": "ShayCryptoCoin",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904095823200153670.png?size=128&quality=lossless",
+        "decimals": 8,
+        "coingeckoId": "succession"
+    },
+    {
+        "symbol": "SFM",
+        "currencyName": "SafeMoon",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/924352606237769789.png?size=128&quality=lossless",
+        "decimals": 4,
+        "coingeckoId": "safemoon-2"
+    },
+    {
+        "symbol": "SFUND",
+        "currencyName": "Seedify.fund",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904095823288238112.png?size=128&quality=lossless",
+        "decimals": 2,
+        "coingeckoId": "seedify-fund"
+    },
+    {
+        "symbol": "SHBAR",
+        "currencyName": "Shilly Bar",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/910479384983519282.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "shilly-bar"
+    },
+    {
+        "symbol": "SISTA",
+        "currencyName": "srnArtGallery Tokenized Arts",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904095824085123082.png?size=128&quality=lossless",
+        "decimals": 6,
+        "coingeckoId": "srnartgallery-tokenized-arts"
+    },
+    {
+        "symbol": "SKILL",
+        "currencyName": "CryptoBlades",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904095823644745740.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "cryptoblades"
+    },
+    {
+        "symbol": "SKMT",
+        "currencyName": "Soakmont v2",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/973696376204591175.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "soakmont"
+    },
+    {
+        "symbol": "SMBElon",
+        "currencyName": "SMBElon Token",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/910479374648770580.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "SMTF",
+        "currencyName": "SmartFi",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/920033904973479956.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "smartfi"
+    },
+    {
+        "symbol": "SPOTX",
+        "currencyName": "The Crypto Spot",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/928787845026553856.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "STATICLP",
+        "currencyName": "ChargeDeFi (StaticLP)",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/936731314214797333.gif?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "STG",
+        "currencyName": "StageCoin",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/961043043052556298.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "stargate-finance"
+    },
+    {
+        "symbol": "SWTH",
+        "currencyName": "Switcheo",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904070238444847194.gif?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "switcheo"
+    },
+    {
+        "symbol": "TMDC",
+        "currencyName": "Take My Doge Coin",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/910482082793414686.png?size=128&quality=lossless",
+        "decimals": 4,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "USELESS",
+        "currencyName": "Useless",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904095927579578418.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "VAFFA",
+        "currencyName": "VAFFA",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904095927881584670.png?size=128&quality=lossless",
+        "decimals": 9,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "VAFFAOPT",
+        "currencyName": "Vaffa Options",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904095927852204042.png?size=128&quality=lossless",
+        "decimals": 6,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "VAULTX",
+        "currencyName": "VaultDeFi",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/921201821756833852.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "VINU",
+        "currencyName": "Vita Inu",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/945747288389730314.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "vita-inu"
+    },
+    {
+        "symbol": "WARRR",
+        "currencyName": "Wrapped Pirate Chain",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904095927969669270.png?size=128&quality=lossless",
+        "decimals": 8,
+        "coingeckoId": "pirate-chain"
+    },
+    {
+        "symbol": "WDVT",
+        "currencyName": "Wrapped DeVault",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904095928317792316.png?size=128&quality=lossless",
+        "decimals": 8,
+        "coingeckoId": "devault"
+    },
+    {
+        "symbol": "WEGG",
+        "currencyName": "Wrapped NestEgg Coin",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/930838006628229131.png?size=128&quality=lossless",
+        "decimals": 8,
+        "coingeckoId": "nestegg-coin"
+    },
+    {
+        "symbol": "WIN",
+        "currencyName": "Winston",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/999687222821392465.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "winklink-bsc"
+    },
+    {
+        "symbol": "WMUE",
+        "currencyName": "Wrapped MonetaryUnit",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904095928296812645.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "monetaryunit"
+    },
+    {
+        "symbol": "WNYC",
+        "currencyName": "Wrapped NewYorkCoin (BSC)",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904095928028397630.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "wrapped-newyorkcoin"
+    },
+    {
+        "symbol": "WSAFE",
+        "currencyName": "Wrapped Safe",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904095928363909150.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "allsafe"
+    },
+    {
+        "symbol": "XDOGE",
+        "currencyName": "ClassicDoge",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/916754582422569090.png?size=128&quality=lossless",
+        "decimals": 4,
+        "coingeckoId": "xdoge"
+    },
+    {
+        "symbol": "ZYN",
+        "currencyName": "Zuelyen",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904095928389103667.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "zynecoin"
+    },
+    {
+        "symbol": "b1MT",
+        "currencyName": "1Million Token (BSC)",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/941836138346332200.gif?size=128&quality=lossless",
+        "decimals": 5,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "bBITT",
+        "currencyName": "BITToken (BSC)",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/903867169081802803.gif?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "bittoken"
+    },
+    {
+        "symbol": "bKIT",
+        "currencyName": "DexKit (BSC)",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/918259375485902888.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "dexkit"
+    },
+    {
+        "symbol": "bLOTTO",
+        "currencyName": "Lotto (BSC)",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/905205427317375006.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "bPUSSY",
+        "currencyName": "Pussy Financial (BSC)",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/941836148551082024.gif?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "pussy-financial"
+    },
+    {
+        "symbol": "bTBB",
+        "currencyName": "Trade Butler Bot (BSC)",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/903867169622851614.gif?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "brkl",
+        "currencyName": "Rickle (BSC)",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/968121120870002708.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "gvVALUE-B",
+        "currencyName": "GovVault Value",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904070060526690344.gif?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "vBSWAP",
+        "currencyName": "vBSWAP",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904095927453773866.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "CHL",
+        "currencyName": "ChallengeDAC",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904069441816510475.gif?size=128&quality=lossless",
+        "decimals": 4,
+        "coingeckoId": "challengedac"
+    },
+    {
+        "symbol": "SAND",
+        "currencyName": "San Diego Coin",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904070238574878781.gif?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "the-sandbox-wormhole"
+    },
+    {
+        "symbol": "BLOODYAXE",
+        "currencyName": "LizziesBloodyAxe",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/1009870965485867018.png?size=128&quality=lossless",
+        "decimals": 0,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "HBD",
+        "currencyName": "Hive Dollar",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904070060509900831.gif?size=128&quality=lossless",
+        "decimals": 3,
+        "coingeckoId": "hive_dollar"
+    },
+    {
+        "symbol": "KANDA",
+        "currencyName": "Telokanda",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904070060585402379.gif?size=128&quality=lossless",
+        "decimals": 8,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "LVL",
+        "currencyName": "Level 1",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/951936018708299846.png?size=128&quality=lossless",
+        "decimals": 8,
+        "coingeckoId": "levelapp"
+    },
+    {
+        "symbol": "NEOXAG",
+        "currencyName": "Neoxian Silver",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904070060967100417.gif?size=128&quality=lossless",
+        "decimals": 8,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "PIZZA",
+        "currencyName": "Pizza",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/907718525081251851.png?size=128&quality=lossless",
+        "decimals": 4,
+        "coingeckoId": "pizza-usde"
+    },
+    {
+        "symbol": "opSNX",
+        "currencyName": "Synthetix Network Token (Optimism)",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/969335234040582255.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "havven"
+    },
+    {
+        "symbol": "opTHALES",
+        "currencyName": "Thales (Optimism)",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/960880149807661086.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "thales"
+    },
+    {
+        "symbol": "ADDY",
+        "currencyName": "Adamant",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/903867168968548393.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "adamant"
+    },
+    {
+        "symbol": "ATK",
+        "currencyName": "Attack Wagon",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/953697922371952772.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "attack-wagon"
+    },
+    {
+        "symbol": "BRIX",
+        "currencyName": "Brix Token",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/966028085742944306.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "CASS",
+        "currencyName": "CassinoCoin",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904068982099816488.png?size=128&quality=lossless",
+        "decimals": 9,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "CBL",
+        "currencyName": "CherryBlossom",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904068982611517530.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "CLAM",
+        "currencyName": "OtterClam",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/914885651344810005.png?size=128&quality=lossless",
+        "decimals": 9,
+        "coingeckoId": "otterclam"
+    },
+    {
+        "symbol": "COMBO",
+        "currencyName": "Furucombo",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/956274721249447946.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "furucombo"
+    },
+    {
+        "symbol": "DESK",
+        "currencyName": "DESK",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/978715610924056717.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "DHT",
+        "currencyName": "dHEDGE DAO (Polygon)",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/909758790893723678.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "dhedge-dao"
+    },
+    {
+        "symbol": "EXPEX",
+        "currencyName": "Xchange Token",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/950197596700409857.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "FLAME",
+        "currencyName": "FireStarter",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/915009166052040724.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "firestarter"
+    },
+    {
+        "symbol": "GLXY",
+        "currencyName": "Galaxy Coin",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/909758750292865064.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "astrals-glxy"
+    },
+    {
+        "symbol": "GTT",
+        "currencyName": "Guppy Treat Token",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/947987785191669780.png?size=128&quality=lossless",
+        "decimals": 4,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "HGH",
+        "currencyName": "Matic Mike Juice",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/907716627234172939.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "ICE",
+        "currencyName": "Iron Finance",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/905205427057336330.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "iron-finance"
+    },
+    {
+        "symbol": "KITTY",
+        "currencyName": "Kitty Coin",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904095822797480018.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "kitty-solana"
+    },
+    {
+        "symbol": "MIMATIC",
+        "currencyName": "MAI",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904095822315147346.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "mimatic"
+    },
+    {
+        "symbol": "NITRO",
+        "currencyName": "Nitro League (Polygon)",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/930098645284577332.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "nitro-league"
+    },
+    {
+        "symbol": "PDD",
+        "currencyName": "PolyDogeDollar",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/961615844188754041.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "pddollar"
+    },
+    {
+        "symbol": "PGEN",
+        "currencyName": "Polygen",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/928978410338922557.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "polygen"
+    },
+    {
+        "symbol": "PIXA",
+        "currencyName": "PIXA Token (Polygon)",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/905260229321715783.png?size=128&quality=lossless",
+        "decimals": 8,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "QI",
+        "currencyName": "Qi Dao",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904095823569244191.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "qiswap"
+    },
+    {
+        "symbol": "SCSG",
+        "currencyName": "StarCard Sports Games",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/958820285052776578.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "SIGNAL",
+        "currencyName": "RADAR",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/955840698379272252.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "SKR",
+        "currencyName": "SKRSKR",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/940355137904447539.png?size=128&quality=lossless",
+        "decimals": 4,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "SOFRESH",
+        "currencyName": "Social Fresh DAO",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/965960314988404777.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "STARDUST",
+        "currencyName": "Stardust",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/941829427384430663.png?size=128&quality=lossless",
+        "decimals": 6,
+        "coingeckoId": "stargazer-protocol"
+    },
+    {
+        "symbol": "TEMPCITY",
+        "currencyName": "CITYDAO",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/909525419936587825.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "TRADE",
+        "currencyName": "Polytrade (Polygon)",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/927272991417589810.png?size=128&quality=lossless",
+        "decimals": 4,
+        "coingeckoId": "polytrade"
+    },
+    {
+        "symbol": "VOXEL",
+        "currencyName": "Voxies",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/937038766596587531.gif?size=128&quality=lossless",
+        "decimals": 8,
+        "coingeckoId": "voxies"
+    },
+    {
+        "symbol": "cSWIX",
+        "currencyName": "CouponSWIX",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/972058460550205441.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "pAPW",
+        "currencyName": "APWine (Polygon)",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/949333988189814824.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "apwine"
+    },
+    {
+        "symbol": "pARKES",
+        "currencyName": "Arke Token (Polygon)",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/938506587256008796.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "pBANANA",
+        "currencyName": "Banana (Polygon)",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/952526388550840320.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "banana"
+    },
+    {
+        "symbol": "pCDS",
+        "currencyName": "Crypto Development Services (Polygon)",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/926112045114466394.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "crypto-development-services"
+    },
+    {
+        "symbol": "pMASQ",
+        "currencyName": "MASQ (Polygon)",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/910527533517250577.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "masq"
+    },
+    {
+        "symbol": "pMEM",
+        "currencyName": "Memecoin (Polygon)",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/912709326739750952.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "memecoin"
+    },
+    {
+        "symbol": "pNFD",
+        "currencyName": "Feisty Doge NFT (Polygon)",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/909935581067378738.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "feisty-doge-nft"
+    },
+    {
+        "symbol": "pSTAK",
+        "currencyName": "Jigstack (Polygon)",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/914187248331796500.png?size=128&quality=lossless",
+        "decimals": 4,
+        "coingeckoId": "jigstack"
+    },
+    {
+        "symbol": "pSWD",
+        "currencyName": "SW DAO (Polygon)",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/937422489603178536.gif?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "pTREAT",
+        "currencyName": "TREAT (Polygon)",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/937040426890829865.gif?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "pUNT",
+        "currencyName": "Universe Finance Token (Polygon)",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/944957750943830116.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "pZUG",
+        "currencyName": "ZUG (Polygon)",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/917890101319712780.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "prkl",
+        "currencyName": "Rickle (Polygon)",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/999686795715416156.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "suINT",
+        "currencyName": "SU integrations",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/953678943918104697.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "XMT",
+        "currencyName": "Metal (Proton)",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904070421555609620.gif?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "metalswap"
+    },
+    {
+        "symbol": "1337",
+        "currencyName": "1337",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/903867168347799614.gif?size=128&quality=lossless",
+        "decimals": 4,
+        "coingeckoId": "e1337"
+    },
+    {
+        "symbol": "ABST",
+        "currencyName": "ABSTRACT",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/903867168859488286.gif?size=128&quality=lossless",
+        "decimals": 4,
+        "coingeckoId": "abitshadow-token"
+    },
+    {
+        "symbol": "AIN",
+        "currencyName": "AndjelaNadja",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/923934974170783755.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "ai-network"
+    },
+    {
+        "symbol": "ALEX",
+        "currencyName": "AlexMasmej",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/903867169648017488.gif?size=128&quality=lossless",
+        "decimals": 4,
+        "coingeckoId": "alexgo"
+    },
+    {
+        "symbol": "ALXO",
+        "currencyName": "Alxocity",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/903867168452653117.gif?size=128&quality=lossless",
+        "decimals": 4,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "ATS",
+        "currencyName": "All That Smoke",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/903867168637210695.gif?size=128&quality=lossless",
+        "decimals": 4,
+        "coingeckoId": "atlas-dex"
+    },
+    {
+        "symbol": "BAEPAY",
+        "currencyName": "BAEPAY",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/930543938723528714.png?size=128&quality=lossless",
+        "decimals": 4,
+        "coingeckoId": "baepay"
+    },
+    {
+        "symbol": "BEAR",
+        "currencyName": "arcane bear",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/903867169253752842.gif?size=128&quality=lossless",
+        "decimals": 4,
+        "coingeckoId": "voytek-bear-coin"
+    },
+    {
+        "symbol": "BERT",
+        "currencyName": "Bertbit",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/903867169060814871.gif?size=128&quality=lossless",
+        "decimals": 4,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "BONES",
+        "currencyName": "Bones",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/903867169455087626.gif?size=128&quality=lossless",
+        "decimals": 4,
+        "coingeckoId": "soul-dog-city-bones"
+    },
+    {
+        "symbol": "BPC",
+        "currencyName": "BloodyPercent",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/903867169660600381.gif?size=128&quality=lossless",
+        "decimals": 4,
+        "coingeckoId": "backpacker-coin"
+    },
+    {
+        "symbol": "BUZZ",
+        "currencyName": "Buzz",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/905205926955474964.gif?size=128&quality=lossless",
+        "decimals": 4,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "CAMO",
+        "currencyName": "CAMO",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904068982041112646.gif?size=128&quality=lossless",
+        "decimals": 4,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "CHERRY",
+        "currencyName": "Cherry",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904069441996877934.gif?size=128&quality=lossless",
+        "decimals": 4,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "CLOUDT",
+        "currencyName": "CloudClout",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904069441921351750.gif?size=128&quality=lossless",
+        "decimals": 4,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "CURIO",
+        "currencyName": "ExtraCurio",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904069441879420938.gif?size=128&quality=lossless",
+        "decimals": 4,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "DOOM",
+        "currencyName": "Doom",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904069441984286760.gif?size=128&quality=lossless",
+        "decimals": 4,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "DSGN",
+        "currencyName": "Design",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904069441975877672.gif?size=128&quality=lossless",
+        "decimals": 4,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "DUDE",
+        "currencyName": "Dude",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904069442105921586.gif?size=128&quality=lossless",
+        "decimals": 4,
+        "coingeckoId": "dude"
+    },
+    {
+        "symbol": "DUMA",
+        "currencyName": "Duma",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904069442001051678.gif?size=128&quality=lossless",
+        "decimals": 4,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "FAMILY",
+        "currencyName": "Bitcoin Family",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904069442022019132.gif?size=128&quality=lossless",
+        "decimals": 4,
+        "coingeckoId": "the-bitcoin-family"
+    },
+    {
+        "symbol": "FIRST",
+        "currencyName": "Harrison First",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904069442399510600.gif?size=128&quality=lossless",
+        "decimals": 4,
+        "coingeckoId": "harrison-first"
+    },
+    {
+        "symbol": "FORCER",
+        "currencyName": "Forcer",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904069441959112757.gif?size=128&quality=lossless",
+        "decimals": 4,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "GATS",
+        "currencyName": "GATS",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904069442454044732.gif?size=128&quality=lossless",
+        "decimals": 4,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "GCASH",
+        "currencyName": "Gcash",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904069442210758717.gif?size=128&quality=lossless",
+        "decimals": 4,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "GORN",
+        "currencyName": "Gorn",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904069442252709948.gif?size=128&quality=lossless",
+        "decimals": 4,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "GOU",
+        "currencyName": "Gou",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904069442512756776.gif?size=128&quality=lossless",
+        "decimals": 4,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "GREEN",
+        "currencyName": "GREEN",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904070060543463444.gif?size=128&quality=lossless",
+        "decimals": 4,
+        "coingeckoId": "greenhouse"
+    },
+    {
+        "symbol": "HERO",
+        "currencyName": "HERO",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904070060535083010.gif?size=128&quality=lossless",
+        "decimals": 4,
+        "coingeckoId": "step-hero"
+    },
+    {
+        "symbol": "HOWL",
+        "currencyName": "Howl",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904070060585410610.gif?size=128&quality=lossless",
+        "decimals": 4,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "HUE",
+        "currencyName": "Hue",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904070060631531551.gif?size=128&quality=lossless",
+        "decimals": 4,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "INI",
+        "currencyName": "Initia",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904070060723822652.gif?size=128&quality=lossless",
+        "decimals": 4,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "INKZ",
+        "currencyName": "INKz",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/925878512215285830.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "inkz"
+    },
+    {
+        "symbol": "KANGG",
+        "currencyName": "Kangdom",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904070060618948670.gif?size=128&quality=lossless",
+        "decimals": 4,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "LADZ",
+        "currencyName": "LADZ",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904070060778348615.gif?size=128&quality=lossless",
+        "decimals": 4,
+        "coingeckoId": "ladz"
+    },
+    {
+        "symbol": "LIFE",
+        "currencyName": "LIFE",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904070060803518504.gif?size=128&quality=lossless",
+        "decimals": 4,
+        "coingeckoId": "lifetise"
+    },
+    {
+        "symbol": "MM",
+        "currencyName": "Moose",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904070061243904051.gif?size=128&quality=lossless",
+        "decimals": 4,
+        "coingeckoId": "million"
+    },
+    {
+        "symbol": "MNFT",
+        "currencyName": "MagNFT",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904070061478776832.gif?size=128&quality=lossless",
+        "decimals": 4,
+        "coingeckoId": "mongol-nft"
+    },
+    {
+        "symbol": "MORK",
+        "currencyName": "MORK",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904070061185183814.gif?size=128&quality=lossless",
+        "decimals": 4,
+        "coingeckoId": "mork"
+    },
+    {
+        "symbol": "NESS",
+        "currencyName": "ness",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904070061046759524.gif?size=128&quality=lossless",
+        "decimals": 4,
+        "coingeckoId": "darkness-share"
+    },
+    {
+        "symbol": "OATS",
+        "currencyName": "Oats",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904070061109682236.gif?size=128&quality=lossless",
+        "decimals": 4,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "PICA",
+        "currencyName": "PICA",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904070237568237568.gif?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "picasso-network"
+    },
+    {
+        "symbol": "PIXEL",
+        "currencyName": "Pixel",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904070237157208105.gif?size=128&quality=lossless",
+        "decimals": 0,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "PLAY",
+        "currencyName": "PLAY",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904070237635362816.gif?size=128&quality=lossless",
+        "decimals": 2,
+        "coingeckoId": "playmusic"
+    },
+    {
+        "symbol": "PRBS",
+        "currencyName": "Poorbucks",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904095823200125028.png?size=128&quality=lossless",
+        "decimals": 6,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "PYGOZ",
+        "currencyName": "PYGOZ",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904070237694070884.gif?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "RARE",
+        "currencyName": "Rare",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904070237673099284.gif?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "unique-one"
+    },
+    {
+        "symbol": "RNG",
+        "currencyName": "Random Number Generator",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904070238126092318.gif?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "RODZ",
+        "currencyName": "RODZ",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904070237597618218.gif?size=128&quality=lossless",
+        "decimals": 4,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "RUSH",
+        "currencyName": "SAND RUSH",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904095823355322469.png?size=128&quality=lossless",
+        "decimals": 4,
+        "coingeckoId": "rush-technology"
+    },
+    {
+        "symbol": "SCB",
+        "currencyName": "SCB",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904070238436483103.gif?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "spacecowboy"
+    },
+    {
+        "symbol": "SCOTT",
+        "currencyName": "SCOTT",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904070237425647658.gif?size=128&quality=lossless",
+        "decimals": 3,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "SKULL",
+        "currencyName": "Skull",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904070237945737276.gif?size=128&quality=lossless",
+        "decimals": 4,
+        "coingeckoId": "skull"
+    },
+    {
+        "symbol": "SNV",
+        "currencyName": "Nouveau",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904070238298054677.gif?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "STEADY",
+        "currencyName": "Steady",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904070238432288818.gif?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "SWAGG",
+        "currencyName": "SWAGG",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904070238172229632.gif?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "TBS",
+        "currencyName": "TheBlackSea",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904070237849288756.gif?size=128&quality=lossless",
+        "decimals": 8,
+        "coingeckoId": "tlabs"
+    },
+    {
+        "symbol": "THANKS",
+        "currencyName": "THANKS",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904070238197403688.gif?size=128&quality=lossless",
+        "decimals": 4,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "TRS",
+        "currencyName": "TraderSquare",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904095823795732549.png?size=128&quality=lossless",
+        "decimals": 4,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "WARP",
+        "currencyName": "WARP",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904070421454917662.gif?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "warp-finance"
+    },
+    {
+        "symbol": "WGM",
+        "currencyName": "WGM",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904070421622710292.gif?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "WHALE",
+        "currencyName": "WHALE",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904070421509443625.gif?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "whale-vault-nftx"
+    },
+    {
+        "symbol": "WURST",
+        "currencyName": "Wurst",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904070421501050881.gif?size=128&quality=lossless",
+        "decimals": 8,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "XHUMAN",
+        "currencyName": "Xhuman",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904070421790478346.gif?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "YUMI",
+        "currencyName": "Yumi",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904070421329084508.gif?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "ZAPH",
+        "currencyName": "ZAPH Token",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904070421652062288.gif?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "KETH",
+        "currencyName": "Kovan",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904070061013209098.gif?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "POA",
+        "currencyName": "POA Network",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904070237488545803.gif?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "poa-network"
+    },
+    {
+        "symbol": "xDAI",
+        "currencyName": "xDai Chain",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904070421496864821.gif?size=128&quality=lossless",
+        "decimals": 9,
+        "coingeckoId": "dai"
+    },
+    {
+        "symbol": "BUSD",
+        "currencyName": "Binance USD",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/903867169652215829.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "binance-usd"
+    },
+    {
+        "symbol": "DAI",
+        "currencyName": "Dai",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904068982519263242.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "dai"
+    },
+    {
+        "symbol": "DSD",
+        "currencyName": "Dynamic Set Dollar",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904069442043019364.gif?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "dynamic-set-dollar"
+    },
+    {
+        "symbol": "SUSD",
+        "currencyName": "sUSD",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904070237991890945.gif?size=128&quality=lossless",
+        "decimals": 3,
+        "coingeckoId": "nusd"
+    },
+    {
+        "symbol": "USDC",
+        "currencyName": "USD Coin",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904070421362659368.gif?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "usd-coin-avalanche-bridged-usdc-e"
+    },
+    {
+        "symbol": "USDT",
+        "currencyName": "Tether USD",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904070421371047956.gif?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "tether"
+    },
+    {
+        "symbol": "XAUT",
+        "currencyName": "Tether Gold",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904070421903712367.gif?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "tether-gold"
+    },
+    {
+        "symbol": "alETH",
+        "currencyName": "Alchemix ETH",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/905205426965073930.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "alUSD",
+        "currencyName": "Alchemix USD",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/903867168616218645.gif?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "opSUSD",
+        "currencyName": "sUSD (Optimism)",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/1007593888959176745.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "nusd"
+    },
+    {
+        "symbol": "SBD",
+        "currencyName": "Steem Dollars",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904070238012866672.gif?size=128&quality=lossless",
+        "decimals": 8,
+        "coingeckoId": "steem-dollars"
+    },
+    {
+        "symbol": "CANNACOIN",
+        "currencyName": "Stellar Cannacoin",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/987864726551818300.png?size=128&quality=lossless",
+        "decimals": 7,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "DXLM",
+        "currencyName": "Doge Lumens",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/914966684710887434.png?size=128&quality=lossless",
+        "decimals": 6,
+        "coingeckoId": "doge-lumens"
+    },
+    {
+        "symbol": "SHX",
+        "currencyName": "Stronghold",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904070237765378148.gif?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "stronghold-token"
+    },
+    {
+        "symbol": "ST",
+        "currencyName": "SlickToken",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904095823938322432.png?size=128&quality=lossless",
+        "decimals": 9,
+        "coingeckoId": "sealem-token"
+    },
+    {
+        "symbol": "ANC",
+        "currencyName": "Anchor Protocol",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/931936715160031353.png?size=128&quality=lossless",
+        "decimals": 6,
+        "coingeckoId": "anchor-protocol"
+    },
+    {
+        "symbol": "ASTRO",
+        "currencyName": "Astroport",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/933779288937857084.png?size=128&quality=lossless",
+        "decimals": 6,
+        "coingeckoId": "astrotools"
+    },
+    {
+        "symbol": "EUT",
+        "currencyName": "TerraEUR",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/931936715336200212.png?size=128&quality=lossless",
+        "decimals": 6,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "HALO",
+        "currencyName": "Angel Protocol",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/946546250432524323.png?size=128&quality=lossless",
+        "decimals": 6,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "KRT",
+        "currencyName": "TerraKRW",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/931936715294253066.png?size=128&quality=lossless",
+        "decimals": 6,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "MARS",
+        "currencyName": "Mars Protocol",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/950774040858067035.png?size=128&quality=lossless",
+        "decimals": 6,
+        "coingeckoId": "projectmars"
+    },
+    {
+        "symbol": "MIR",
+        "currencyName": "Mirror Protocol",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/931936715126493204.png?size=128&quality=lossless",
+        "decimals": 6,
+        "coingeckoId": "mirror-protocol"
+    },
+    {
+        "symbol": "MNT",
+        "currencyName": "TerraMNT",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/931936715449466890.png?size=128&quality=lossless",
+        "decimals": 6,
+        "coingeckoId": "meownaut"
+    },
+    {
+        "symbol": "SDOLLAR",
+        "currencyName": "Space Dollar",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/933779289701236816.png?size=128&quality=lossless",
+        "decimals": 4,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "UST",
+        "currencyName": "TerraUSD",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/931936715323613195.png?size=128&quality=lossless",
+        "decimals": 6,
+        "coingeckoId": "terrausd-wormhole"
+    },
+    {
+        "symbol": "aUST",
+        "currencyName": "AnchorUST",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/933779288505847890.png?size=128&quality=lossless",
+        "decimals": 6,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "bLUNA",
+        "currencyName": "Bonded Luna",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/931936715126501426.png?size=128&quality=lossless",
+        "decimals": 6,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "1MT",
+        "currencyName": "1Million Token",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/903867168335204413.gif?size=128&quality=lossless",
+        "decimals": 5,
+        "coingeckoId": "1million-token"
+    },
+    {
+        "symbol": "2GT",
+        "currencyName": "2gether",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/903867168700116992.gif?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "2gether-2"
+    },
+    {
+        "symbol": "5HRIMP",
+        "currencyName": "WhaleStreet SHRIMP Token",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/903867169438310470.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "AAVE",
+        "currencyName": "Aave",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/903867168519770113.gif?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "aave-wormhole"
+    },
+    {
+        "symbol": "ALCX",
+        "currencyName": "Alchemix",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/903867169786429463.gif?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "alchemix"
+    },
+    {
+        "symbol": "ANTS",
+        "currencyName": "FireAnts",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/905205926758338610.gif?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "fireants"
+    },
+    {
+        "symbol": "ARC",
+        "currencyName": "Arc",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/952978460412874753.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "arc"
+    },
+    {
+        "symbol": "ART",
+        "currencyName": "ART Token",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/903867169111171092.gif?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "maecenas"
+    },
+    {
+        "symbol": "AUDIO",
+        "currencyName": "Audius",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/903867169052446760.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "audius-wormhole"
+    },
+    {
+        "symbol": "AVGL",
+        "currencyName": "AVGL",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/903867169115349073.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "B0T",
+        "currencyName": "B0Tcoin",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/908542978748993576.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "B20",
+        "currencyName": "B.20",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/903867169606082570.gif?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "b20"
+    },
+    {
+        "symbol": "BAC",
+        "currencyName": "Basis Cash",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/903867169329250324.gif?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "basis-cash"
+    },
+    {
+        "symbol": "BACON",
+        "currencyName": "BaconDAO",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/903867169492848690.gif?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "baconswap"
+    },
+    {
+        "symbol": "BADGER",
+        "currencyName": "Badger DAO",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/903867169392189491.gif?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "badger-dao"
+    },
+    {
+        "symbol": "BAL",
+        "currencyName": "Balancer",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/903867169165697066.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "balancer"
+    },
+    {
+        "symbol": "BANANA",
+        "currencyName": "Banana",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/952511890918109265.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "banana-finance"
+    },
+    {
+        "symbol": "BAT",
+        "currencyName": "Basic Attention Token",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/903867169056628756.gif?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "basic-attention-token"
+    },
+    {
+        "symbol": "BITT",
+        "currencyName": "BITToken",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/903867169429913711.gif?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "bittoken"
+    },
+    {
+        "symbol": "BNT",
+        "currencyName": "Bancor Network Token",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/903867169467682836.gif?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "bancor"
+    },
+    {
+        "symbol": "BOMB",
+        "currencyName": "Bomb",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/903867169069224069.gif?size=128&quality=lossless",
+        "decimals": 0,
+        "coingeckoId": "bomb"
+    },
+    {
+        "symbol": "BOOM",
+        "currencyName": "Dogs Unchained",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/915011258854559814.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "BTQ",
+        "currencyName": "Boutique72",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/903867169631272970.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "BUGZ",
+        "currencyName": "CryptoCrawlerz",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/905205427011215380.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "BXMI",
+        "currencyName": "Bxmi Token",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904068981764280332.gif?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "bxmi-token"
+    },
+    {
+        "symbol": "CARD",
+        "currencyName": "Cardstack",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/917524845158354944.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "cardstack"
+    },
+    {
+        "symbol": "CHEDR",
+        "currencyName": "Cheddar",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904095610288865330.gif?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "CHEER",
+        "currencyName": "Cheer",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904069441829089320.gif?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "CHIZ",
+        "currencyName": "Sewer Rat Social Club CHIZ Token",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904068983219683378.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "sewer-rat-social-club-chiz-token"
+    },
+    {
+        "symbol": "CHP",
+        "currencyName": "CoinPoker",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904069441891991562.gif?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "coinpoker"
+    },
+    {
+        "symbol": "CMK",
+        "currencyName": "Credmark",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904068982112403457.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "CNG",
+        "currencyName": "Changer",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/939129871567826955.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "cng-casino"
+    },
+    {
+        "symbol": "CNJ",
+        "currencyName": "Conjure",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904068982213058591.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "COIN",
+        "currencyName": "Coin Artist",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904069441480974418.gif?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "coinbase-stock-bittrex"
+    },
+    {
+        "symbol": "COMP",
+        "currencyName": "Compound",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904069441854263316.gif?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "compound-governance-token"
+    },
+    {
+        "symbol": "CREDS",
+        "currencyName": "Creds",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/920076450495889458.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "creds"
+    },
+    {
+        "symbol": "CVD",
+        "currencyName": "Covid19",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904069441875214347.gif?size=128&quality=lossless",
+        "decimals": 0,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "DANK",
+        "currencyName": "Dank Token",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904069441992675378.gif?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "DATA",
+        "currencyName": "Data Economy Index",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904069312166387732.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "streamr"
+    },
+    {
+        "symbol": "DEPO",
+        "currencyName": "Depo",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/905247959736799252.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "depocket"
+    },
+    {
+        "symbol": "DNT",
+        "currencyName": "district0x",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904069442030424094.gif?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "smartlands"
+    },
+    {
+        "symbol": "DODO",
+        "currencyName": "DODO",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904069441929748550.gif?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "dodo"
+    },
+    {
+        "symbol": "DOG",
+        "currencyName": "The Doge NFT",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904069312594198528.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "the-golden-dog"
+    },
+    {
+        "symbol": "DPX",
+        "currencyName": "Dopex",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/907716627137708073.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "dopex"
+    },
+    {
+        "symbol": "DRC",
+        "currencyName": "Dracula Token",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904069441543868427.gif?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "drc-mobility"
+    },
+    {
+        "symbol": "DTR",
+        "currencyName": "Dynamic Trading Rights",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904069441724235807.gif?size=128&quality=lossless",
+        "decimals": 8,
+        "coingeckoId": "dotori"
+    },
+    {
+        "symbol": "DTUBE",
+        "currencyName": "DTube Coin",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904069441988464690.gif?size=128&quality=lossless",
+        "decimals": 2,
+        "coingeckoId": "dtube-coin"
+    },
+    {
+        "symbol": "DYDX",
+        "currencyName": "dYdX",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/966773428281569300.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "dydx-wormhole"
+    },
+    {
+        "symbol": "EGT",
+        "currencyName": "ElasticDAO",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904069442043015239.gif?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "evergreen-token"
+    },
+    {
+        "symbol": "ESD",
+        "currencyName": "Empty Set Dollar",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904069442059780136.gif?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "empty-set-dollar"
+    },
+    {
+        "symbol": "EXRD",
+        "currencyName": "e-Radix",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904069441745199105.gif?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "e-radix"
+    },
+    {
+        "symbol": "FARM",
+        "currencyName": "Harvest Finance",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904069441971703819.gif?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "harvest-finance"
+    },
+    {
+        "symbol": "FISH",
+        "currencyName": "Penguin Party Fish",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904069442189807727.gif?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "polycat-finance"
+    },
+    {
+        "symbol": "FISHTANK",
+        "currencyName": "FISH Tank",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/909758781779480626.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "FLX",
+        "currencyName": "Reflexer Ungovernance Token",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904069442105933854.gif?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "reflexer-ungovernance-token"
+    },
+    {
+        "symbol": "FOX",
+        "currencyName": "ShapeShift FOX Token",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/905205426814091367.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "shapeshift-fox-token"
+    },
+    {
+        "symbol": "FRONT",
+        "currencyName": "Frontier",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904069442043019355.gif?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "frontier-token"
+    },
+    {
+        "symbol": "GAME",
+        "currencyName": "GameCredits",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904069442164645959.gif?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "x-consoles"
+    },
+    {
+        "symbol": "GEN",
+        "currencyName": "DAOstack",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904069442214981693.gif?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "generation"
+    },
+    {
+        "symbol": "GHST",
+        "currencyName": "GHST Token",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904069442210775111.gif?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "aavegotchi"
+    },
+    {
+        "symbol": "GORE",
+        "currencyName": "GORE",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904069312518705202.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "GPL",
+        "currencyName": "Gold Pressed Latinum",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904069442332405800.gif?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "GRAIN",
+        "currencyName": "GRAIN Token",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904070060841259018.gif?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "GUILD",
+        "currencyName": "BlockchainSpace",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/923959568353067048.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "blockchainspace"
+    },
+    {
+        "symbol": "GYSR",
+        "currencyName": "Geyser",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904070060564443156.gif?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "geyser"
+    },
+    {
+        "symbol": "HEX",
+        "currencyName": "HEX",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904438516182835240.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "hex"
+    },
+    {
+        "symbol": "HND",
+        "currencyName": "Hundred Finance",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904069312531279882.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "hundred-finance"
+    },
+    {
+        "symbol": "HOGE",
+        "currencyName": "Hoge Finance",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904070060581216306.gif?size=128&quality=lossless",
+        "decimals": 4,
+        "coingeckoId": "hoge-finance"
+    },
+    {
+        "symbol": "HONEYD",
+        "currencyName": "Honey Deluxe",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/923934973390618634.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "honey-deluxe"
+    },
+    {
+        "symbol": "HYP",
+        "currencyName": "Hypno",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904070060560248883.gif?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "hyperstake"
+    },
+    {
+        "symbol": "ICAP",
+        "currencyName": "Invictus Capital Token",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904070060723814450.gif?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "invictus-capital-token"
+    },
+    {
+        "symbol": "ICHI",
+        "currencyName": "ICHI",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/923934973357097010.png?size=128&quality=lossless",
+        "decimals": 9,
+        "coingeckoId": "legacy-ichi"
+    },
+    {
+        "symbol": "IHF",
+        "currencyName": "Invictus Hyperion Fund",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904070060824465418.gif?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "invictus-hyprion-fund"
+    },
+    {
+        "symbol": "ILV",
+        "currencyName": "Illuvium",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904069312388685846.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "illuvium"
+    },
+    {
+        "symbol": "JBX",
+        "currencyName": "Juicebox",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/917896341894615101.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "juicebox"
+    },
+    {
+        "symbol": "JPX",
+        "currencyName": "Japan Excitement Coin",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904070060849639425.gif?size=128&quality=lossless",
+        "decimals": 4,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "JRT",
+        "currencyName": "Jarvis Reward Token",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904070060807684166.gif?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "jarvis-reward-token"
+    },
+    {
+        "symbol": "KAMA",
+        "currencyName": "KamaGang Community Token",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904095822357069885.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "LBY",
+        "currencyName": "Lobby",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/923934973319331950.png?size=128&quality=lossless",
+        "decimals": 6,
+        "coingeckoId": "lobby"
+    },
+    {
+        "symbol": "LINK",
+        "currencyName": "Chainlink",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904070061055164446.gif?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "chainlink"
+    },
+    {
+        "symbol": "LIT",
+        "currencyName": "LITonium",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904070060778336258.gif?size=128&quality=lossless",
+        "decimals": 2,
+        "coingeckoId": "lition"
+    },
+    {
+        "symbol": "LORDS",
+        "currencyName": "LORDS",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/932012675616079953.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "lords"
+    },
+    {
+        "symbol": "LOTTO",
+        "currencyName": "Lotto",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904070061160005672.gif?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "lotto"
+    },
+    {
+        "symbol": "MIST",
+        "currencyName": "Alchemist",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904095823976087562.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "mistswap"
+    },
+    {
+        "symbol": "LUX",
+        "currencyName": "Lux Expression",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904070061499744286.gif?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "luxor"
+    },
+    {
+        "symbol": "MNFTCOIN",
+        "currencyName": "MongolNFT",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/914954488756973568.png?size=128&quality=lossless",
+        "decimals": 12,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "LYRA",
+        "currencyName": "Lyra Finance",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/937313950545092658.gif?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "scrypta"
+    },
+    {
+        "symbol": "MPH",
+        "currencyName": "88mph",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904095822961070100.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "morpher"
+    },
+    {
+        "symbol": "MASQ",
+        "currencyName": "MASQ",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904095822629703710.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "masq"
+    },
+    {
+        "symbol": "MSG",
+        "currencyName": "MoonSuGar",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904095822726176880.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "msgsender"
+    },
+    {
+        "symbol": "MBC",
+        "currencyName": "Marblecoin",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904070061059354655.gif?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "microbitcoin"
+    },
+    {
+        "symbol": "MTA",
+        "currencyName": "Meta (mStable Governance Token)",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904095822579392553.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "meta"
+    },
+    {
+        "symbol": "MEM",
+        "currencyName": "Memecoin",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904095822638116914.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "memecoin"
+    },
+    {
+        "symbol": "MTL",
+        "currencyName": "Metal (ERC20)",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904070060681871461.gif?size=128&quality=lossless",
+        "decimals": 8,
+        "coingeckoId": "metal"
+    },
+    {
+        "symbol": "MEOW",
+        "currencyName": "Meowshi",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/991053650698854501.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "solcats"
+    },
+    {
+        "symbol": "NCT",
+        "currencyName": "Name Change Token",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904070061126471770.gif?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "toucan-protocol-nature-carbon-tonne"
+    },
+    {
+        "symbol": "MFT",
+        "currencyName": "Mainframe",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904070061424254996.gif?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "my-farm-token"
+    },
+    {
+        "symbol": "NDX",
+        "currencyName": "Indexed Finance",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904095822474530878.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "ndex"
+    },
+    {
+        "symbol": "NFD",
+        "currencyName": "Feisty Doge NFT",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904095823833469029.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "feisty-doge-nft"
+    },
+    {
+        "symbol": "NFTL",
+        "currencyName": "Nifty League",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904095822847811635.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "nifty-league"
+    },
+    {
+        "symbol": "NST",
+        "currencyName": "Ninja Squad",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/935686673713483827.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "ninja-squad"
+    },
+    {
+        "symbol": "NUME",
+        "currencyName": "NumisMe",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/963140181039407154.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "numisme"
+    },
+    {
+        "symbol": "OCEAN",
+        "currencyName": "Ocean Protocol",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904070061118062592.gif?size=128&quality=lossless",
+        "decimals": 9,
+        "coingeckoId": "ocean-protocol"
+    },
+    {
+        "symbol": "OHM",
+        "currencyName": "Olympus v1",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904070061113901106.gif?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "olympus-v1"
+    },
+    {
+        "symbol": "OIL",
+        "currencyName": "OIL",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/933323892909568041.png?size=128&quality=lossless",
+        "decimals": 8,
+        "coingeckoId": "oiler"
+    },
+    {
+        "symbol": "PAGE",
+        "currencyName": "Page",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904095823095279726.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "page"
+    },
+    {
+        "symbol": "PAINT",
+        "currencyName": "MurAll",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904070060879003660.gif?size=128&quality=lossless",
+        "decimals": 8,
+        "coingeckoId": "paint"
+    },
+    {
+        "symbol": "PATH",
+        "currencyName": "PathDAO",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/921027184162930729.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "pathfundv2"
+    },
+    {
+        "symbol": "PEACH",
+        "currencyName": "Peach",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/954711636088848394.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "PENCIL",
+        "currencyName": "Pencil",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/939896927829520424.png?size=128&quality=lossless",
+        "decimals": 8,
+        "coingeckoId": "pencil-dao"
+    },
+    {
+        "symbol": "PERP",
+        "currencyName": "Perpetual Protocol",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904070237769576458.gif?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "perpetual-protocol"
+    },
+    {
+        "symbol": "PHTK",
+        "currencyName": "Phun Token",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/989114393193246740.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "phuntoken"
+    },
+    {
+        "symbol": "PICKLE",
+        "currencyName": "Pickle Finance",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904070237824122961.gif?size=128&quality=lossless",
+        "decimals": 4,
+        "coingeckoId": "pickle-finance"
+    },
+    {
+        "symbol": "PINS",
+        "currencyName": "Les Collectionneurs",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/917905187790811206.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "PLU",
+        "currencyName": "Pluton",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904070238029631508.gif?size=128&quality=lossless",
+        "decimals": 4,
+        "coingeckoId": "pluton"
+    },
+    {
+        "symbol": "POW",
+        "currencyName": "Metahero Universe",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/1016716005059350538.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "punks-comic-pow"
+    },
+    {
+        "symbol": "PURR",
+        "currencyName": "Purrnelope's Country Club",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904095823028179014.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "spartacats"
+    },
+    {
+        "symbol": "PUSSY",
+        "currencyName": "Pussy Financial",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904070237446631465.gif?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "pussy-financial"
+    },
+    {
+        "symbol": "PYRO",
+        "currencyName": "PYRO Network",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904070237857656832.gif?size=128&quality=lossless",
+        "decimals": 4,
+        "coingeckoId": "pyromatic"
+    },
+    {
+        "symbol": "RAI",
+        "currencyName": "Rai Reflex Index",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904070237756985376.gif?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "raicoin"
+    },
+    {
+        "symbol": "RDPX",
+        "currencyName": "Dopex Rebate Token",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/907716627112546304.png?size=128&quality=lossless",
+        "decimals": 8,
+        "coingeckoId": "dopex-rebate-token"
+    },
+    {
+        "symbol": "REP",
+        "currencyName": "YakuzaRep",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904095823011385364.png?size=128&quality=lossless",
+        "decimals": 8,
+        "coingeckoId": "augur"
+    },
+    {
+        "symbol": "RIOT",
+        "currencyName": "Riot Racers",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904095823615377461.png?size=128&quality=lossless",
+        "decimals": 6,
+        "coingeckoId": "riot-racers"
+    },
+    {
+        "symbol": "RUG",
+        "currencyName": "RUGCOIN",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/905206568457482332.png?size=128&quality=lossless",
+        "decimals": 4,
+        "coingeckoId": "rug-radio"
+    },
+    {
+        "symbol": "RWASTE",
+        "currencyName": "RadioactiveWaste",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/935296312377737277.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "SAN",
+        "currencyName": "Santiment Network Token",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904070237614395483.gif?size=128&quality=lossless",
+        "decimals": 9,
+        "coingeckoId": "santiment-network-token"
+    },
+    {
+        "symbol": "SEED",
+        "currencyName": "MetaGame",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904070237673123841.gif?size=128&quality=lossless",
+        "decimals": 8,
+        "coingeckoId": "seed-venture"
+    },
+    {
+        "symbol": "SHIB",
+        "currencyName": "Shiba Inu",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/915015314373247048.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "shiba-inu-wormhole"
+    },
+    {
+        "symbol": "SHINY",
+        "currencyName": "Shiny",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/933779632715616386.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "shiny"
+    },
+    {
+        "symbol": "SHO",
+        "currencyName": "SHO Token",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/954723300951592970.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "showcase-token"
+    },
+    {
+        "symbol": "SHOCK",
+        "currencyName": "AfterShock",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904070237798940684.gif?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "SHROOM",
+        "currencyName": "Niftyx Protocol",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904070237803147314.gif?size=128&quality=lossless",
+        "decimals": 4,
+        "coingeckoId": "shroom-finance"
+    },
+    {
+        "symbol": "SNOW",
+        "currencyName": "SnowSwap",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904070238025433119.gif?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "snowswap"
+    },
+    {
+        "symbol": "SNX",
+        "currencyName": "Synthetix Network Token",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904070238583259167.gif?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "havven"
+    },
+    {
+        "symbol": "SOS",
+        "currencyName": "OpenDAO",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/938889226269884426.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "sos-foundation"
+    },
+    {
+        "symbol": "STAK",
+        "currencyName": "Jigstack",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904095823565037648.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "jigstack"
+    },
+    {
+        "symbol": "STAKE",
+        "currencyName": "xDAI Stake",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904070238293860402.gif?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "xdai-stake"
+    },
+    {
+        "symbol": "STRIP",
+        "currencyName": "Strip Coin",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904095824332595221.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "stripto"
+    },
+    {
+        "symbol": "STRN",
+        "currencyName": "Strain",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904070238419681330.gif?size=128&quality=lossless",
+        "decimals": 4,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "SUSHI",
+        "currencyName": "Sushi",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904070238398717982.gif?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "sushi"
+    },
+    {
+        "symbol": "TBB",
+        "currencyName": "Trade Butler Bot",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904070238243549264.gif?size=128&quality=lossless",
+        "decimals": 4,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "THALES",
+        "currencyName": "Thales",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904095823879602176.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "thales"
+    },
+    {
+        "symbol": "TKN",
+        "currencyName": "Monolith",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904070238348382228.gif?size=128&quality=lossless",
+        "decimals": 6,
+        "coingeckoId": "tokonft"
+    },
+    {
+        "symbol": "TRU",
+        "currencyName": "TrueFi",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904095823896403968.png?size=128&quality=lossless",
+        "decimals": 8,
+        "coingeckoId": "truefi"
+    },
+    {
+        "symbol": "TVK",
+        "currencyName": "Terra Virtua Kolect",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904095824424874004.png?size=128&quality=lossless",
+        "decimals": 8,
+        "coingeckoId": "the-virtua-kolect"
+    },
+    {
+        "symbol": "UBI",
+        "currencyName": "Universal Basic Income",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904095823917383740.png?size=128&quality=lossless",
+        "decimals": 8,
+        "coingeckoId": "universal-basic-income"
+    },
+    {
+        "symbol": "UCD",
+        "currencyName": "UniCandy",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904095927730597918.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "unicandy"
+    },
+    {
+        "symbol": "UMA",
+        "currencyName": "UMA",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904095927697043557.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "uma"
+    },
+    {
+        "symbol": "UNI",
+        "currencyName": "Uniswap",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904070421203255297.gif?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "uniswap-wormhole"
+    },
+    {
+        "symbol": "VALUE",
+        "currencyName": "Value",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904070421224239185.gif?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "value-liquidity"
+    },
+    {
+        "symbol": "VIBE",
+        "currencyName": "Vibe Token",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/915007311850905661.png?size=128&quality=lossless",
+        "decimals": 9,
+        "coingeckoId": "vibe-bio"
+    },
+    {
+        "symbol": "VOLT",
+        "currencyName": "Voltage",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904095928368128000.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "voltswap"
+    },
+    {
+        "symbol": "WATER",
+        "currencyName": "Water",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/983484947425796136.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "water-reminder"
+    },
+    {
+        "symbol": "WCK",
+        "currencyName": "Wrapped CryptoKitties",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904070421505269790.gif?size=128&quality=lossless",
+        "decimals": 4,
+        "coingeckoId": "wrapped-cryptokitties"
+    },
+    {
+        "symbol": "WHSKI",
+        "currencyName": "Whiski",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904095928317788171.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "WIPC",
+        "currencyName": "WIPcoin",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904070421454934097.gif?size=128&quality=lossless",
+        "decimals": 4,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "WMARTK",
+        "currencyName": "Wrapped Martkist",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904070421249392681.gif?size=128&quality=lossless",
+        "decimals": 4,
+        "coingeckoId": "martkist"
+    },
+    {
+        "symbol": "WRLD",
+        "currencyName": "TheWorldsAMine",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904070421148753952.gif?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "nft-worlds"
+    },
+    {
+        "symbol": "XFT",
+        "currencyName": "Offshift",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904095928296833046.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "offshift"
+    },
+    {
+        "symbol": "XIO",
+        "currencyName": "Blockzero Labs",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/911617935406166026.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "xio"
+    },
+    {
+        "symbol": "XJP",
+        "currencyName": "eXciting Japan Coin",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904070421605941268.gif?size=128&quality=lossless",
+        "decimals": 4,
+        "coingeckoId": "exciting-japan-coin"
+    },
+    {
+        "symbol": "XTK",
+        "currencyName": "xToken",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904095928091291710.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "xtoken"
+    },
+    {
+        "symbol": "XYO",
+        "currencyName": "XYO Network",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904070421337501828.gif?size=128&quality=lossless",
+        "decimals": 6,
+        "coingeckoId": "xyo-network"
+    },
+    {
+        "symbol": "YAM",
+        "currencyName": "YAM",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904095928326164590.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "yam-2"
+    },
+    {
+        "symbol": "YAX",
+        "currencyName": "YAX (ERC20)",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904070421673017354.gif?size=128&quality=lossless",
+        "decimals": 6,
+        "coingeckoId": "yaxis"
+    },
+    {
+        "symbol": "YAXIS",
+        "currencyName": "YAXIS (ERC667)",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904095928200339546.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "yaxis"
+    },
+    {
+        "symbol": "YGG",
+        "currencyName": "Yield Guild Games",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904095928548478976.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "yield-guild-games"
+    },
+    {
+        "symbol": "YUI",
+        "currencyName": "Yui Finance",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904095928196169770.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "YUM",
+        "currencyName": "Yum Yums",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/905247960454021130.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "ZDEX",
+        "currencyName": "Zeedex",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904095927969665095.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "zeedex"
+    },
+    {
+        "symbol": "ZINGOT",
+        "currencyName": "ZINGOT",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904095928598798386.png?size=128&quality=lossless",
+        "decimals": 8,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "ZRX",
+        "currencyName": "0x",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904070421580767302.gif?size=128&quality=lossless",
+        "decimals": 8,
+        "coingeckoId": "0x"
+    },
+    {
+        "symbol": "ZUG",
+        "currencyName": "ZUG",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/917880100517707796.png?size=128&quality=lossless",
+        "decimals": 8,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "jEUR",
+        "currencyName": "Jarvis Synthetic Euro",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904070060639940619.gif?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "oneFOX",
+        "currencyName": "oneFOX",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/909758739140214815.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "oneMPH",
+        "currencyName": "oneMPH",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904095823346929734.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "rkl",
+        "currencyName": "Rickle",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/917099895935074325.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "sILV",
+        "currencyName": "Escrowed Illuvium",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904095823778938902.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "uDAO",
+        "currencyName": "uDAO",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904095927567003748.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "uINT",
+        "currencyName": "UMA Integrations Option",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904095927625719828.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "uTVL-0621",
+        "currencyName": "uTVL-0621",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904095927424389202.png?size=128&quality=lossless",
+        "decimals": 6,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "xICHI",
+        "currencyName": "xICHI",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/931332331191566346.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "ichi-farm"
+    },
+    {
+        "symbol": "xNANA",
+        "currencyName": "Synth Banana",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904095928040960120.png?size=128&quality=lossless",
+        "decimals": 6,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "BTTOLD",
+        "currencyName": "BitTorrent (Old)",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/903867169681575936.gif?size=128&quality=lossless",
+        "decimals": 6,
+        "coingeckoId": "bittorrent-old"
+    },
+    {
+        "symbol": "LOOT",
+        "currencyName": "Warsaken Loot",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904837813223178300.png?size=128&quality=lossless",
+        "decimals": 4,
+        "coingeckoId": "nftlootbox"
+    },
+    {
+        "symbol": "MARTIA",
+        "currencyName": "Martia",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/906157614319161345.png?size=128&quality=lossless",
+        "decimals": 4,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "NBMACT",
+        "currencyName": "Actium",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/916008889290489867.png?size=128&quality=lossless",
+        "decimals": 6,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "NBMCON",
+        "currencyName": "Constructium",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/916008535651921940.png?size=128&quality=lossless",
+        "decimals": 6,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "NBMFUS",
+        "currencyName": "Fusium",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/916008045048393750.png?size=128&quality=lossless",
+        "decimals": 6,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "NBMMIN",
+        "currencyName": "Minium",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/916007644559450132.png?size=128&quality=lossless",
+        "decimals": 6,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "SHELL",
+        "currencyName": "Shellinium",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904095823946719282.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "turtle-shell-islands"
+    },
+    {
+        "symbol": "SHING",
+        "currencyName": "SHING",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/923934973453533204.png?size=128&quality=lossless",
+        "decimals": 4,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "TACO",
+        "currencyName": "Taco",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904095823627976724.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "tacos"
+    },
+    {
+        "symbol": "TOCIUM",
+        "currencyName": "Tocium",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/912342588344918036.png?size=128&quality=lossless",
+        "decimals": 8,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "BRIGHT",
+        "currencyName": "Bright on xDai",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/903867169190866955.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "bright-token"
+    },
+    {
+        "symbol": "CFXQ",
+        "currencyName": "CFXQ on xDai",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904068981911089173.gif?size=128&quality=lossless",
+        "decimals": 6,
+        "coingeckoId": "cfx-quantum"
+    },
+    {
+        "symbol": "HNY",
+        "currencyName": "Honey",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904070060547657759.gif?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "honey"
+    },
+    {
+        "symbol": "TRIPS",
+        "currencyName": "Trips on xDai",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/904070238268690462.gif?size=128&quality=lossless",
+        "decimals": 8,
+        "coingeckoId": "trips-community"
+    },
+    {
+        "symbol": "xFOX",
+        "currencyName": "ShapeShift FOX Token (xDai Chain)",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/905552255040761937.png?size=128&quality=lossless",
+        "decimals": 6,
+        "coingeckoId": "shapeshift-fox-token"
+    },
+    {
+        "symbol": "xGIV",
+        "currencyName": "Giveth (xDai Chain)",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/923934973411618896.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "giveth"
+    },
+    {
+        "symbol": "CRO",
+        "currencyName": "Crypto.com Coin",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/1029535674103255080.png?size=128&quality=lossless",
+        "decimals": 21,
+        "coingeckoId": "crypto-com-chain"
+    },
+    {
+        "symbol": "ARRR",
+        "currencyName": "Pirate Chain",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/1057281244808892427.png?size=128&quality=lossless",
+        "decimals": 8,
+        "coingeckoId": "pirate-chain"
+    },
+    {
+        "symbol": "CDY",
+        "currencyName": "Bitcoin Candy",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/1045982205517779004.png?size=128&quality=lossless",
+        "decimals": 5,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "NANO",
+        "currencyName": "Nano",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/912438159479017472.png?size=128&quality=lossless",
+        "decimals": 30,
+        "coingeckoId": "nano"
+    },
+    {
+        "symbol": "arbETH",
+        "currencyName": "Ethereum (Arbitrum One)",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/1036337980652138547.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "ethereum"
+    },
+    {
+        "symbol": "dbl",
+        "currencyName": "Doubloon Token",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/1036343482542993589.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "doubloon"
+    },
+    {
+        "symbol": "PPO",
+        "currencyName": "prePO Token",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/1027270729185628170.png?size=128&quality=lossless",
+        "decimals": 17,
+        "coingeckoId": "prepo"
+    },
+    {
+        "symbol": "OK",
+        "currencyName": "Wrapped Okcash",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/1044235465940799538.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "okcash"
+    },
+    {
+        "symbol": "USDe",
+        "currencyName": "USDearn",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/1043242587940724797.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "bTR3B",
+        "currencyName": "TR3B-Manta",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/1043964104349589605.png?size=128&quality=lossless",
+        "decimals": 8,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "CVN",
+        "currencyName": "CryptoVision",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/1045760335560323162.png?size=128&quality=lossless",
+        "decimals": 0,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "WOO",
+        "currencyName": "Wrestling Organization Online",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/1043237603861860394.png?size=128&quality=lossless",
+        "decimals": 8,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "ROY",
+        "currencyName": "Royale",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/1023137819964735580.png?size=128&quality=lossless",
+        "decimals": 17,
+        "coingeckoId": "crypto-royale"
+    },
+    {
+        "symbol": "CIC",
+        "currencyName": "Crazy Internet Coin",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/1037772779694608415.png?size=128&quality=lossless",
+        "decimals": 17,
+        "coingeckoId": "crazy-internet-coin"
+    },
+    {
+        "symbol": "EUROC",
+        "currencyName": "Euro Coin",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/1057037424699637780.png?size=128&quality=lossless",
+        "decimals": 6,
+        "coingeckoId": "euro-coin"
+    },
+    {
+        "symbol": "ACX",
+        "currencyName": "Across Protocol",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/1047194594623897621.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "across-protocol"
+    },
+    {
+        "symbol": "SSV",
+        "currencyName": "SSV Network",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/1036340887141240832.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "ssv-network"
+    },
+    {
+        "symbol": "X7R",
+        "currencyName": "X7R",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/1037796392942452857.png?size=128&quality=lossless",
+        "decimals": 18,
+        "coingeckoId": "x7r"
+    },
+    {
+        "symbol": "sILV2",
+        "currencyName": "Escrowed Illuvium 2",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/1060605235694940292.png?size=128&quality=lossless",
+        "decimals": 6,
+        "coingeckoId": "illuvium"
+    },
+    {
+        "symbol": "BRX",
+        "currencyName": "Brix Society",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/1044336134077030410.png?size=128&quality=lossless",
+        "decimals": 4,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "ONI",
+        "currencyName": "ONI",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/1060615880054149191.png?size=128&quality=lossless",
+        "decimals": 0,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "RADS",
+        "currencyName": "RADS",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/1044360439317925999.png?size=128&quality=lossless",
+        "decimals": 4,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "THC",
+        "currencyName": "Tetra Hydrinium Credit",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/1059926231979671562.png?size=128&quality=lossless",
+        "decimals": 0,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "TRC",
+        "currencyName": "Taco Racers",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/1057287671682175006.png?size=128&quality=lossless",
+        "decimals": 4,
+        "coingeckoId": null
+    },
+    {
+        "symbol": "ZOMB",
+        "currencyName": "ZOMB",
+        "emoteUrl": "https://cdn.discordapp.com/emojis/1044360456715898890.png?size=128&quality=lossless",
+        "decimals": 4,
+        "coingeckoId": null
+    }
+]
